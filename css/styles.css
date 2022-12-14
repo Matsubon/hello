@@ -21,7 +21,9 @@ hr{
  border-width: 5px;
  width: 5%
 }
-
+img:hover{
+    background-color: green;
+    }
 .sushi{
  background-color: pink;
 }
