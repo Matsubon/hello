@@ -12,11 +12,11 @@ h1{
 }
 .middle-container{
     width: 200px;
-    hight: 200px;
+    height: 200px;
     background-color: red;
 }
 .bottom-container{
     width: 200px;
-    hight: 200px;
+    height: 200px;
     background-color: blue;
 }
