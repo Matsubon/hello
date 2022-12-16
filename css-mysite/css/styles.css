@@ -10,3 +10,13 @@ div{
     background-color: CBEDD5;
     
 }
+div.red{
+    width: 200px;
+    hight: 200px;
+    background-color: red;
+}
+div.blue{
+    width: 200px;
+    hight: 200px;
+    background-color: blue;
+}
