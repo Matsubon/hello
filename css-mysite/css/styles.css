@@ -10,18 +10,19 @@ h1{
     width: 200px;
     height: 200px;
     background-color: CBEDD5;
-    align: left;
+    margin-left: 0;
     
 }
 .middle-container{
     width: 200px;
     height: 200px;
     background-color: red;
-    align: center;
+    margin-left:auto;
+    margin-right:auto;
 }
 .bottom-container{
     width: 200px;
     height: 200px;
     background-color: yellow;
-    align: right;
+    margin-right:0;
 }
