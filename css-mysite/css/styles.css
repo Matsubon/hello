@@ -7,16 +7,21 @@ h1{
     
 }
 .top-container{
+    width: 200px;
+    height: 200px;
     background-color: CBEDD5;
+    align: left;
     
 }
 .middle-container{
     width: 200px;
     height: 200px;
     background-color: red;
+    align: center;
 }
 .bottom-container{
     width: 200px;
     height: 200px;
-    background-color: blue;
+    background-color: yellow;
+    align: right;
 }
