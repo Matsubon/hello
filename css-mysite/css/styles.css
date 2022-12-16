@@ -6,16 +6,16 @@ h1{
     margin-top: 0;
     
 }
-div.mizuiro{
+.top-container{
     background-color: CBEDD5;
     
 }
-div.red{
+.middle-container{
     width: 200px;
     hight: 200px;
     background-color: red;
 }
-div.blue{
+.bottom-container{
     width: 200px;
     hight: 200px;
     background-color: blue;
