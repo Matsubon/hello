@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #CBEDD5
+    text-align: center;
 }
  
 h1{
@@ -8,10 +9,12 @@ h1{
     
 }
 .top-ten{
-position: relative;
+position: absolute;
+margin: 0 10px 0 0;
 }
 .bottom-ten{
 position: absolute;
+margin: 0 0 0 10px;
 }
 .top-container{
     width: 200px;
