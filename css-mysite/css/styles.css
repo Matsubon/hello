@@ -10,8 +10,8 @@ h1{
     width: 200px;
     height: 200px;
     background-color: #CBEDD5;
+    position: absolute;
     margin-left: 0;
-    border: solid 10px;
     padding: 20px;
     
 }
@@ -19,15 +19,18 @@ h1{
     width: 200px;
     height: 200px;
     background-color: red;
+    position: absolute;
     margin-left: 260px;
     margin-right: auto;
-    border: solid 20px;
+    
 }
 .bottom-container{
     width: 200px;
     height: 200px;
     background-color: yellow;
+    position: absolute;
     margin-left: 500px;
     margin-right: 0;
-    border:solid 10px;
+
+
 }
