@@ -10,11 +10,13 @@ h1{
 }
 .top-ten{
 position: absolute;
-margin: 0 10px 0 0;
+right: 300px;
+top: 50px;
 }
 .bottom-ten{
 position: absolute;
-margin: 0 0 0 10px;
+left: 300px;
+bottom: 300px;
 }
 .top-container{
     background-color: #CBEDD5;
