@@ -1,10 +1,17 @@
 body{
     margin: 0;
+    background-color: #CBEDD5
 }
  
 h1{
     margin-top: 0;
     
+}
+.top-ten{
+position: relative;
+}
+.bottom-ten{
+position: absolute;
 }
 .top-container{
     width: 200px;
