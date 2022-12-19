@@ -34,19 +34,10 @@ bottom: 300px;
     
 }
 .middle-container{
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    position: absolute;
-    margin-right: auto;
+    
     
 }
 .bottom-container{
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-    position: absolute;
-    margin-right: 0;
-
+    
 
 }
