@@ -29,7 +29,7 @@ a{
 }
 .skill-row{
     width: 50%;
-    margin: auto;
+    margin: 100px auto 100px auto;
 }
 .top-ten{
     position: absolute;
