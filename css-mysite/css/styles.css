@@ -9,18 +9,18 @@ h1{
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
-    font-color: #66BFBF;
+    color: #66BFBF;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
-    font-color: #66BFBF;
+    color: #66BFBF;
     font-weight: normal;
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
-    font-color: #11999E;
+    color: #11999E;
 }
 
 a{
