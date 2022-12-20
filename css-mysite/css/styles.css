@@ -19,8 +19,12 @@ h2{
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    font-color: #11999E;
 }
 
+a{
+    font-color:#11999E;
+}
 .top-ten{
 position: absolute;
 right: 300px;
