@@ -31,6 +31,9 @@ a{
     width: 50%;
     margin: 100px auto 100px auto;
 }
+.skill-p{
+    text-align: left;
+}
 .top-ten{
     position: absolute;
     right: 300px;
