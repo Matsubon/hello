@@ -23,18 +23,22 @@ h3{
     color: #11999E;
 }
 
+
 a{
     font-color:#11999E;
 }
+.skill-row{
+    width: 50%;
+}
 .top-ten{
-position: absolute;
-right: 300px;
-top: 50px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
 }
 .bottom-ten{
-position: absolute;
-left: 300px;
-bottom: 300px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
 .top-container{
     background-color: #CBEDD5;
