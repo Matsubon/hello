@@ -28,6 +28,10 @@ h3{
 p{
     line-height: 2;
 }
+hr{
+    border: dotted #EAF6F6 6px;
+}
+
 a{
     font-color:#11999E;
 }
