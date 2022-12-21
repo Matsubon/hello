@@ -35,6 +35,9 @@ a{
     text-align: left;
     line-height: 2;
 }
+.intro{
+    width:30%;
+}
 .code-img{
     width: 15%;
     float: left;
