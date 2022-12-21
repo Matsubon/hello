@@ -45,7 +45,8 @@ a{
 }
 .catfood{
     width: 25%;
-    float: left;
+    float: right;
+    margin-left: 30px;
 }
 
 .top-ten{
