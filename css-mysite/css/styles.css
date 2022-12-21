@@ -25,7 +25,9 @@ h3{
     color: #11999E;
 }
 
-
+p{
+    line-height: 2;
+}
 a{
     font-color:#11999E;
 }
@@ -33,7 +35,7 @@ a{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
+    
 }
 .intro{
     width:30%;
