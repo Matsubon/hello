@@ -30,6 +30,7 @@ p{
 }
 hr{
     border: dotted #EAF6F6 6px;
+    bottom-border: none;
 }
 
 a{
