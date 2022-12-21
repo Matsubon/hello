@@ -35,6 +35,7 @@ a{
 }
 .code-img{
     width: 15%;
+    float: left;
 }
 .top-ten{
     position: absolute;
