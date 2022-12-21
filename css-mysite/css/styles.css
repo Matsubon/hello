@@ -48,6 +48,12 @@ a{
     float: right;
     margin-left: 30px;
 }
+.skill-description-play{
+    clear: left;
+    }
+.skill-description-catfood{
+    clear: right;
+    }
 
 .top-ten{
     position: absolute;
