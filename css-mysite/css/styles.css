@@ -33,6 +33,9 @@ a{
     text-align: left;
     line-height: 2;
 }
+.code-img{
+    width: 25%;
+}
 .top-ten{
     position: absolute;
     right: 300px;
