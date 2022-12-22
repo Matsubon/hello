@@ -65,7 +65,10 @@ a{
 .skill-description-catfood{
     
     }
-
+.contact-message{
+    width:40%;
+    margin: 40px auto 40px auto;
+}
 .top-ten{
     position: absolute;
     right: 300px;
