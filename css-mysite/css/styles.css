@@ -125,3 +125,8 @@ a:hover{
   background-image: linear-gradient(to bottom, #30e3cb, #2nc4ad);
   text-decoration: none;
 }
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
