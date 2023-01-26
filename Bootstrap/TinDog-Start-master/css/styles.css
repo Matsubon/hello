@@ -11,7 +11,10 @@ H1{
     Size: 3rem;
     Line-height: 1.5;
 }
-
+H3{
+    font-family: "montserrat-bold";
+    font-size: 1.5rem;
+}
 .container-fluid{
      padding: 3% 15%;
 }
