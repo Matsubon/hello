@@ -17,15 +17,15 @@ H1{
 }
 
 .navbar{
-    padding-bottom:4.5rem;
+    padding:0 0 4.5rem;
 }
 .navbar-brand{
     font-family: "Ubuntu";
-    Size: 2.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
 }
 .nav-item{
     font-family: "Montserrat-light";
-    size: 1.2rem;
+    font-size: 1.2rem;
     
 }
