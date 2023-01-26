@@ -34,3 +34,8 @@ H1{
     margin:5% 3% 5% 0;
     
 }
+
+.title-image{
+    width:60%;
+    transform rotate(45deg);
+}
