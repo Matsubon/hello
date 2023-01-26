@@ -11,3 +11,7 @@ Line-height: 1.5;
 .container-fluid{
  padding: 3% 15%;
 }
+
+.rotated {
+  transform: rotate(45deg); /* rotateZ(45deg) と等価 */
+}
