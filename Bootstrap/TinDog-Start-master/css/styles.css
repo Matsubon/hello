@@ -12,7 +12,7 @@ H1{
     Line-height: 1.5;
 }
 H3{
-    font-family: "montserrat-bold";
+    font-family: "Montserrat-bold";
     font-size: 1.5rem;
 }
 .container-fluid{
@@ -45,4 +45,9 @@ H3{
 
 #feature{
     padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
 }
