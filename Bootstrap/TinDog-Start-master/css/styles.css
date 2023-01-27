@@ -43,20 +43,24 @@ p {
     
 }
 
-.title-image{
+.title-image {
     width:60%;
     transform rotate(25deg);
 }
 
-#feature{
+#feature {
     padding: 7% 15%;
 }
 
-.feature-box{
+.feature-box {
     text-align: center;
     padding: 5%;
 }
-.icon{
+.icon {
     color: #ef8172;
     margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
 }
