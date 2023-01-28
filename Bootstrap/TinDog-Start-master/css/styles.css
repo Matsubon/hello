@@ -70,9 +70,13 @@ p {
     color: #ff4c68;
 }
 
-#tesitimonial {
+#tesitimonials {
     padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+
+.testimonial-image{
+    width: 10%;
 }
