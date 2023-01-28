@@ -11,6 +11,11 @@ H1 {
     Size: 3rem;
     Line-height: 1.5;
 }
+h2{
+    font-family: "Montserrat-Black";
+    Size: 2.5rem;
+    Line-height: 1.5;
+}
 H3 {
     font-family: "Montserrat-bold";
     font-size: 1.5rem;
