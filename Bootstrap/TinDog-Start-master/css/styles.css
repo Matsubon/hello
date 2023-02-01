@@ -119,7 +119,7 @@ p {
     text-align: center;
 }
 .title-image {
-    transform: rotate(0deg);
+    transform: rotate(0);
     position: static;
 }
 }
