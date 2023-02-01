@@ -114,6 +114,11 @@ p {
     padding: 3% 2%;
 }
 
+#cta{
+    background-color: #ef8172;
+}
+
+
 @media (max-width: 1024px){
 #title{
     text-align: center;
@@ -123,3 +128,4 @@ p {
     position: static;
 }
 }
+
