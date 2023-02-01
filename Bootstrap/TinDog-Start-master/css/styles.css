@@ -113,3 +113,10 @@ p {
 .plicing-column{
     padding: 3% 2%;
 }
+
+@media (max-width: 1024px){
+.title-image {
+    transform: rotate(0deg);
+    position: static;
+}
+}
