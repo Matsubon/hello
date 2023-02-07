@@ -116,6 +116,12 @@ testimonial-text{
     text-align:center;
 }
 
+.section-heading{
+    font-size: 3rem;
+    Line-height: 1.5;
+}
+
+
 .plicing-column{
     padding: 3% 2%;
 }
