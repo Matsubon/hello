@@ -56,10 +56,6 @@ p {
     right: 30%;
 }
 
-.title-text{
-    font-size:3rem;
-}
-
 #features {
     padding: 7% 15%;
     background-color:#fff;
@@ -118,6 +114,11 @@ p {
 .plicing-column{
     padding: 3% 2%;
 }
+
+.price-text{
+    font-size:3rem;
+}
+
 
 #cta{
     background-color: #ff4c68;
