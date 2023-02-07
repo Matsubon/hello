@@ -2,9 +2,17 @@ body{
     font-family: "Montserrat";
     text-align: center;
 }
+.container-fluid{
+     padding: 7% 15%;
+}
+
 #title{
     background-color:#ff4c68;
     color: #fff;
+}
+
+#title.container-fluid{
+     padding: 3% 7% 15%;
 }
 
 H1,H2,H3,H4,H5{
@@ -19,9 +27,6 @@ p {
     font-family:"Montserrat-Black";
     Size: 3rem;
     Line-height: 1.5;
-}
-.container-fluid{
-     padding: 7% 15%;
 }
 
 .navbar{
