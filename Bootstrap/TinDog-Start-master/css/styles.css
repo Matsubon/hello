@@ -56,6 +56,10 @@ p {
     right: 30%;
 }
 
+.title-text{
+    font-size:3rem;
+}
+
 #features {
     padding: 7% 15%;
     background-color:#fff;
