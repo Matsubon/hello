@@ -64,7 +64,6 @@ p {
 
 #features {
     padding: 7% 15%;
-    
     position: relative;
     z-index: 1;
 }
@@ -86,7 +85,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image{
