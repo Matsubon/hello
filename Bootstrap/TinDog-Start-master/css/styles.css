@@ -14,12 +14,9 @@ body{
     background-color:#fff;
 }
 
-#title{
-
-}
-
 #title.container-fluid{
-     padding: 3% 7% 15%;
+    text-align: left;
+    padding: 3% 7% 15%;
 }
 
 H1,H2,H3,H4,H5{
