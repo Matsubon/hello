@@ -6,9 +6,16 @@ body{
      padding: 7% 15%;
 }
 
-#title{
+.colored-section{
     background-color:#ff4c68;
     color: #fff;
+}
+.white-section{
+    background-color:#fff;
+}
+
+#title{
+
 }
 
 #title.container-fluid{
@@ -57,7 +64,7 @@ p {
 
 #features {
     padding: 7% 15%;
-    background-color:#fff;
+    
     position: relative;
     z-index: 1;
 }
