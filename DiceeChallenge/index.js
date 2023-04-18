@@ -15,6 +15,6 @@ if (randomNumber1 > randomNumber2){
 } else if(randomNumber2 > randomNumber1) {
     document.querySelector("h1").innerHTML = "player2 wins!"
 } else{
-    document.querySelector("h1").innerHTML = "even"
+    document.querySelector("h1").innerHTML = "draw!"
 }
 
