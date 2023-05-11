@@ -27,8 +27,8 @@ switch (buttonInnerHTML) {
      snare.play();
     break;
   case "k":
-    var cymbal = new audio("sounds/cymbal.mp3");
-     cymbal.play();
+    var crash = new audio("sounds/crash.mp3");
+     crash.play();
     break;
   case "l":
     var kick = new audio("sounds/kick.mp3");
