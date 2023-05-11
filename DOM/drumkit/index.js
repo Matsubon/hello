@@ -34,10 +34,11 @@ switch (buttonInnerHTML) {
     var kick = new audio("sounds/kick.mp3");
      kick.play();
     break;
+ default:
+  console.log(buttonInnerHTML);
 }
 
 }
 
 }
-    var audio = new audio("sounds/tom-1.mp3");
-     audio.play();
+    
