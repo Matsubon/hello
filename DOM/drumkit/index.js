@@ -3,7 +3,7 @@ var numberofDrumButton = document.querySelectorAll(".drum").length;
 for(var i = 0 i<numberofDrumButton; i++){
 document.querySelectorall(".drum")[i].addEventListenner(click, handleClick())
 
-Function handleClic{
+Function handleClick{
  var buttonInnerHTML= this.innertext;
 switch (buttonInnerHTML) {
   case "w":
