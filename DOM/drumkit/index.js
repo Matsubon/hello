@@ -41,4 +41,5 @@ switch (buttonInnerHTML) {
 }
 
 }
+}
     
