@@ -38,7 +38,7 @@ switch (buttonInnerHTML) {
   console.log(buttonInnerHTML);
 }
 
-}};
+});
 
 }
     
