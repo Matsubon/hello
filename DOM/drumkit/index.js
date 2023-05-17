@@ -7,7 +7,7 @@ for (var i = 0; i < numberOfDrumButton; i++) {
   });
 }
 document.addEventListenet("keypress",function(event){
-  makesound(event.key);
+  makeSound(event.key);
 });
 
 
