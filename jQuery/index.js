@@ -1,3 +1,5 @@
-$("h1").css(
-    "color","green"
-);
+
+$("document").keypress(function(event){
+var typedText = event.key;
+});
+$("h1").text("typedText");
